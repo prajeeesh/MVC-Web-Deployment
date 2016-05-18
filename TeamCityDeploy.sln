@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankMVC", "BankMVC\BankMVC.csproj", "{397EC545-6A42-4FFD-973A-D8C1D4B6020B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "..\Bank\Bank\Bank.csproj", "{DE534926-A320-4BC2-AEBF-602E1AE7B62E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{397EC545-6A42-4FFD-973A-D8C1D4B6020B}.Web.Development.config|Any CPU.Build.0 = Web.Development.config|Any CPU
 		{397EC545-6A42-4FFD-973A-D8C1D4B6020B}.WEb.Production.config|Any CPU.ActiveCfg = WEb.Production.config|Any CPU
 		{397EC545-6A42-4FFD-973A-D8C1D4B6020B}.WEb.Production.config|Any CPU.Build.0 = WEb.Production.config|Any CPU
+		{DE534926-A320-4BC2-AEBF-602E1AE7B62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE534926-A320-4BC2-AEBF-602E1AE7B62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE534926-A320-4BC2-AEBF-602E1AE7B62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE534926-A320-4BC2-AEBF-602E1AE7B62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE534926-A320-4BC2-AEBF-602E1AE7B62E}.Web.Development.config|Any CPU.ActiveCfg = Release|Any CPU
+		{DE534926-A320-4BC2-AEBF-602E1AE7B62E}.Web.Development.config|Any CPU.Build.0 = Release|Any CPU
+		{DE534926-A320-4BC2-AEBF-602E1AE7B62E}.WEb.Production.config|Any CPU.ActiveCfg = Release|Any CPU
+		{DE534926-A320-4BC2-AEBF-602E1AE7B62E}.WEb.Production.config|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
