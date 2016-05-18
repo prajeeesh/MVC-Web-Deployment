@@ -9,12 +9,18 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Web.Development.config|Any CPU = Web.Development.config|Any CPU
+		WEb.Production.config|Any CPU = WEb.Production.config|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{397EC545-6A42-4FFD-973A-D8C1D4B6020B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{397EC545-6A42-4FFD-973A-D8C1D4B6020B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{397EC545-6A42-4FFD-973A-D8C1D4B6020B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{397EC545-6A42-4FFD-973A-D8C1D4B6020B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397EC545-6A42-4FFD-973A-D8C1D4B6020B}.Web.Development.config|Any CPU.ActiveCfg = Web.Development.config|Any CPU
+		{397EC545-6A42-4FFD-973A-D8C1D4B6020B}.Web.Development.config|Any CPU.Build.0 = Web.Development.config|Any CPU
+		{397EC545-6A42-4FFD-973A-D8C1D4B6020B}.WEb.Production.config|Any CPU.ActiveCfg = WEb.Production.config|Any CPU
+		{397EC545-6A42-4FFD-973A-D8C1D4B6020B}.WEb.Production.config|Any CPU.Build.0 = WEb.Production.config|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

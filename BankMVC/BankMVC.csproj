@@ -137,6 +137,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="obj\Web.Development.config\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="obj\WEb.Production.config\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Properties\PublishProfiles\IISDeploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
